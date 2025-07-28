@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rajratan/Videos/ML_END_to_END/Data-Science/mlruns/869230024651397726/911a45589605448ca1cd0a18126ab59b/artifacts
+end_time: 1753698553938
+entry_point_name: ''
+experiment_id: '869230024651397726'
+lifecycle_stage: active
+run_id: 911a45589605448ca1cd0a18126ab59b
+run_name: BoW_(1, 1)_RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753698548378
+status: 3
+tags: []
+user_id: rajratan

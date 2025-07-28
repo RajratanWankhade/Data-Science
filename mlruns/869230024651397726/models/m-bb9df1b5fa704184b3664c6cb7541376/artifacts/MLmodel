@@ -1,0 +1,22 @@
+artifact_path: file:///home/rajratan/Videos/ML_END_to_END/Data-Science/mlruns/869230024651397726/models/m-bb9df1b5fa704184b3664c6cb7541376/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.13
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+mlflow_version: 3.1.4
+model_id: m-bb9df1b5fa704184b3664c6cb7541376
+model_size_bytes: 9222513
+model_uuid: m-bb9df1b5fa704184b3664c6cb7541376
+prompts: null
+run_id: 5c93ad09691c4852b40bc81da5ac028f
+utc_time_created: '2025-07-28 10:29:37.972213'

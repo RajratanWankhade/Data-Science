@@ -1,0 +1,10 @@
+artifact_location: file:///home/rajratan/Videos/ML_END_to_END/Data-Science/mlruns/869230024651397726/models/m-bb9df1b5fa704184b3664c6cb7541376/artifacts
+creation_timestamp: 1753698577955
+experiment_id: '869230024651397726'
+last_updated_timestamp: 1753698579852
+model_id: m-bb9df1b5fa704184b3664c6cb7541376
+model_type: null
+name: random_forest_model_BoW_(1, 3)
+source_run_id: 5c93ad09691c4852b40bc81da5ac028f
+status: 2
+status_message: null

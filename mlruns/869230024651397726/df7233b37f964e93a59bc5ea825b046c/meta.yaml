@@ -1,0 +1,14 @@
+artifact_uri: file:///home/rajratan/Videos/ML_END_to_END/Data-Science/mlruns/869230024651397726/df7233b37f964e93a59bc5ea825b046c/artifacts
+end_time: 1753698588248
+entry_point_name: ''
+experiment_id: '869230024651397726'
+lifecycle_stage: active
+run_id: df7233b37f964e93a59bc5ea825b046c
+run_name: TF-IDF_(1, 3)_RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753698583283
+status: 3
+tags: []
+user_id: rajratan

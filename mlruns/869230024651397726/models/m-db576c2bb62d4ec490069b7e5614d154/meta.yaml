@@ -1,0 +1,10 @@
+artifact_location: file:///home/rajratan/Videos/ML_END_to_END/Data-Science/mlruns/869230024651397726/models/m-db576c2bb62d4ec490069b7e5614d154/artifacts
+creation_timestamp: 1753698557454
+experiment_id: '869230024651397726'
+last_updated_timestamp: 1753698559259
+model_id: m-db576c2bb62d4ec490069b7e5614d154
+model_type: null
+name: random_forest_model_TF-IDF_(1, 1)
+source_run_id: ee9e67668e2c4d36aa47ee2bcff4597c
+status: 2
+status_message: null
